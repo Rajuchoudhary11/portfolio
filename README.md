@@ -1,4 +1,10 @@
+#new changes
+few lines
+just like this
+one more 
+
 # Personal Portfolio
+
 
 A responsive personal portfolio website built with plain HTML, CSS, and JavaScript.
 
